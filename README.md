@@ -1,2 +1,5 @@
-# Geospatial_and_Maps_Layers_using_Tableau
-Using Tableau to perform geospatial analysis
+# Geospatial Analysis with Tableau
+## Project Description
+This project uses Tableau to perform geospatial analysis using three different data sources and the goal was to create a three-layered map of Mauritius, utilizing administrative boundaries, roads lines, and educational facilities points.
+## Data Sources
+https://data.humdata.org/dataset?res_format=SHP&q=Mauritius&sort=if(gt(last_modified,review_date),last_modified,review_date)%20desc&ext_page_size=25
